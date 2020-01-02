@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Andre Puschmann
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Cellular communication expert
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+#organizations:
+#- name: Software Radio Systems
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a 4G/5G full-stack radio access network engineer. I am a srsLTE core developer and also the current project maintainer.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 4G/5G-based cellular networks and software radios
+- Ultra-reliable networks, including vehicular networks, machine-to-machine communication
+- Software quality assurance and test and validation methods
+- Embedded real-time systems and operating system design
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Dr.-Ing. (Computer Engineering)
+    institution: Ilmenau University of Technology, Germany
+    year: 2015
+  - course: Dipl.-Inf. (Computer Science)
+    institution: Ilmenau University of Technology, Germany
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +43,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/andrepuschmann
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/AndrePuschmann
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=jWRaY-8AAAAJ&hl=de
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/andrepuschmann
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +71,11 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a 4G/5G full-stack radio access network engineer. I am a srsLTE
+core developer and also the current project maintainer.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am the VP Engineering in Software Radio Systems, the company behind srsLTE. I am coordinating
+the commercial 5G activities and lead the C-V2X development.
+
+Prior to that I was working as a  postdoctoral researcher
+at Trinity College Dublin, Ireland and Ilmenau University of Technology, Germany.
