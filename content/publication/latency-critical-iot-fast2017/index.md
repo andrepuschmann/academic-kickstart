@@ -43,7 +43,7 @@ featured: False
 links:
 - name: IEEE Xplore
   url: https://ieeexplore.ieee.org/document/7842415
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://www.vodafone-chair.org/media/publications/philipp-schulz/Latency_Critical_IoT_Applications_in_5G_Perspective_on_the_Design_of_Radio_Interface_and_Network_Architecture.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
