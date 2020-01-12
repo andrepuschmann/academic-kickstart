@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Cellular communication expert
+role: software radio engineer, FOSS enthusiast, father
 
 # Organizations/Affiliations
 #organizations:
@@ -18,11 +18,11 @@ role: Cellular communication expert
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a 4G/5G full-stack radio access network engineer. I am a srsLTE core developer and also the current project maintainer.
+bio: I am a 4G/5G full-stack radio access network engineer. I am a srsLTE core developer and also the project maintainer.
 
 interests:
 - 4G/5G-based cellular networks and software radios
-- Ultra-reliable networks, including vehicular networks, machine-to-machine communication
+- Ultra-reliable networks, including vehicular networks and machine-to-machine communication
 - Software quality assurance and test and validation methods
 - Embedded real-time systems and operating system design
 
@@ -62,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "social@puschmann.net"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -71,11 +71,13 @@ user_groups:
 - Visitors
 ---
 
-I am a 4G/5G full-stack radio access network engineer. I am a srsLTE
-core developer and also the current project maintainer.
+I am a 4G/5G full-stack radio access network engineer. I am a <a href="https://www.srslte.com/" target="_blank">srsLTE</a>
+core developer and also the project maintainer.
 
-I am the VP Engineering in Software Radio Systems, the company behind srsLTE. I am coordinating
-the commercial 5G activities and lead the C-V2X development.
+I am the VP of Engineering in <a href="https://www.softwareradiosystems.com/" target="_blank">Software Radio Systems</a> (SRS), the company behind srsLTE. Within SRS,
+I am looking after our 5G activities and lead the C-V2X development.
 
-Prior to that, I was working as a  postdoctoral researcher
+Prior to SRS, I was working as a postdoctoral researcher
 at Trinity College Dublin, Ireland and Ilmenau University of Technology, Germany.
+
+I am involved in (open source) software development for more than 15 years.
