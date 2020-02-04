@@ -77,7 +77,7 @@ core developer and also the project maintainer.
 I am the VP of Engineering in <a href="https://www.softwareradiosystems.com/" target="_blank">Software Radio Systems</a> (SRS), the company behind srsLTE. Within SRS,
 I am looking after our 5G activities and lead the C-V2X development.
 
-Prior to SRS, I was working as a postdoctoral researcher
+Prior to that, I was working as a postdoctoral researcher
 at Trinity College Dublin, Ireland and Ilmenau University of Technology, Germany.
 
-I am involved in (open source) software development for more than 15 years.
+I am involved in open-source software development for more than 15 years.
