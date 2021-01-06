@@ -1,6 +1,3 @@
-
-Mikrokernbasierte Bebtriebssysteme in industriellen Anwendungen
-“Diplomarbeit” in German, December 2009
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 

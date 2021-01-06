@@ -1,7 +1,3 @@
-A. Puschmann and M. A. Kalil and A. Mitschele-Thiel
-“A Testbed for Experimental Cognitive Radio Network Research”
-2nd International COST Action IC0902 Workshop, Barcelona/Castelldefels, Spain, October 2011
-
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
