@@ -1,12 +1,4 @@
-A. Puschmann and M. A. Kalil
-“The Impact of a Dedicated Sensing Engine on a SDR Implementation of the CSMA Protocol”
-10th International Symposium on Wireless Communication Systems (ISWCS), Ilmenau, Germany, August 2013
-[text] [BibTeX] [IEEE Xplore]
-
-
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "The Impact of a Dedicated Sensing Engine on a SDR Implementation of the CSMA Protocol"
 authors:
 - admin

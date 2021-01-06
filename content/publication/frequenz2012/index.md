@@ -30,7 +30,7 @@ featured: False
 links:
 - name: De Cruyter
   url: http://www.degruyter.com/view/j/freq.2012.66.issue-9-10/freq-2012-0048/freq-2012-0048.xml
-url_pdf: http://www.puschmann.net/download/paper/Bloessl2015_timings.pdf
+url_pdf: http://www.puschmann.net/download/paper/Puschmann2012a_frequenz.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
