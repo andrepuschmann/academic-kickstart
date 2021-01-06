@@ -18,12 +18,12 @@ role: software radio engineer, FOSS enthusiast, father
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a 4G/5G full-stack radio access network engineer. I am a srsLTE core developer and also the project maintainer.
+bio: I am a 4G/5G full-stack radio access network (RAN) engineer. I am a srsLTE core developer and also the project maintainer.
 
 interests:
 - 4G/5G-based cellular networks and software radios
-- Ultra-reliable networks, including vehicular networks and machine-to-machine communication
 - Software quality assurance and test and validation methods
+- Ultra-reliable networks, including vehicular networks and machine-to-machine communication
 - Embedded real-time systems and operating system design
 
 education:
@@ -74,10 +74,13 @@ user_groups:
 I am a 4G/5G full-stack radio access network engineer. I am a <a href="https://www.srslte.com/" target="_blank">srsLTE</a>
 core developer and also the project maintainer.
 
-I am the VP of Engineering in <a href="https://www.softwareradiosystems.com/" target="_blank">Software Radio Systems</a> (SRS), the company behind srsLTE. Within SRS,
-I am looking after our 5G activities and lead the C-V2X development.
+I am the VP of Engineering in <a href="https://www.softwareradiosystems.com/" target="_blank">Software Radio Systems</a> (SRS), the company behind srsLTE.
+Within SRS, I am leading the Layer 2/3 activities and look after all aspects of product quality assurance.
 
-Prior to that, I was working as a postdoctoral researcher
+Over the past years, I've worked on various 4G/5G related projects, both as active developer, leading engineer
+and/or project manager. 
+
+Prior to helping to build srsLTE, I was working as a postdoctoral researcher
 at Trinity College Dublin, Ireland and Ilmenau University of Technology, Germany.
 
 I am involved in open-source software development for more than 15 years.
